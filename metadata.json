@@ -1,0 +1,6 @@
+{
+  "name": "Autonomo x402 — Agentic API Launchpad & zOFT Reactor",
+  "description": "The agentic x402 launchpad for APIs on Robinhood Chain with real-time telemetry, interactive 3D Join-Split & x402 Reactor, and autonomous agent payment playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
